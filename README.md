@@ -30,6 +30,7 @@ Find the total volume for the current ticker.
         End If
 
 ![VBA_Original_2017](/Resources/VBA_Original_2017.png)
+
 ![VBA_Original_2018](/Resources/VBA_Original_2018.png)
 
 ### Refactored run times 
