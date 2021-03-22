@@ -35,10 +35,9 @@ Find the total volume for the current ticker.
 
 Script sample:
 '3a) Increase volume for current ticker
-          If Cells(j, 1).Value = tickerIndex Then
-        
+          
+            If Cells(j, 1).Value = tickerIndex Then
             tickerVolumes = tickerVolumes + Cells(j, 8).Value
-        
             End If 
 
 [insert image]
