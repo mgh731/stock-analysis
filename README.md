@@ -46,7 +46,6 @@ Script sample:
 ![VBA_Challenge_2017](/Resources/VBA_Challenge_2017.png)
 ![VBA _Challenge_2018](/Resources/VBA _Challenge_2018.png)
 
-
 # Summary
 
 ## What are the advantages or disadvantages of refactoring code?
