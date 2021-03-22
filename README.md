@@ -9,11 +9,11 @@ This analysis was to produce a view of green stocks performance over a year and 
 The stocks in this data set performed much better in 2017 than in 2018. 
 
 ### Performance in 2017
-[insert image]
+Resources/VBA_Challenge_Output2017
 
 ### Performance in 2018
 
-[insert image]
+Resources/VBA_Challenge_Output2018
 
 ## Run time comparisons
 The exection times between the original and refactored scripts were nearly a second difference, with the original script running much faster. 
@@ -29,7 +29,7 @@ Find the total volume for the current ticker.
         
         End If
 
-[insert image]
+
 
 ### Refactored run times 
 
